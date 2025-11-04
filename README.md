@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   <a href="https://rajpo.netlify.app/">
-    <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt=" views"/>
+    <img src="https://img.shields.io/badge/Rajprabhu%20Portfolio-8A2BE2" alt=" views"/>
   </a>
     
 </p>
